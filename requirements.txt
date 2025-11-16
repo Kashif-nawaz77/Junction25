@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+scikit-learn
+lightgbm
+gekko
+scipy # Used for interpolation in helpers
+nordpool
